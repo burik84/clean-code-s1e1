@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.more_inf {
+.header__info {
   font-family: fantasy, cursive;
 }
 
@@ -38,7 +38,7 @@ main {
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.add-task__wrapper {
   display: flex;
 }
 
